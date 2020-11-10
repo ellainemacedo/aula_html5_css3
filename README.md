@@ -1,2 +1,3 @@
-# aula_html5_css3
-Aula de como usar html 5 e css3
+# HTML5 e CSS3 :computer:
+
+Aprendendo a usar HTML5 e CSS3
